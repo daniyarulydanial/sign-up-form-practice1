@@ -42,7 +42,7 @@ Users should be able to:
 
 ## Process
 
-
+First of all we created HTML with semantics and added sign-up form. Then externally linked CSS and JS files to it. In CSS file we tried to add responsive and user-friendly design. And in JS we wrote throw if-else conditions validation for sign-up form.
 
 ### Built with
 
