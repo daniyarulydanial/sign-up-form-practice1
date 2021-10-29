@@ -6,12 +6,12 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [My process](#my-process)
+  - [Process](#process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [What we learned](#what-we-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -31,16 +31,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot-of-page.jpg)
+![](Screenshot-of-page.png)
 
 
 
 ### Links
 
-- Solution URL: [https://github.com/ZZZAyana/signupp.git]
-- Live Site URL: [https://zzzayana.github.io/signupp/]
+- Solution URL: [https://github.com/ZZZAyana/signupp.git] [https://github.com/TurboDanik/sign-up-form-practice1.git]
+- Live Site URL: [https://zzzayana.github.io/signupp/] [https://turbodanik.github.io/sign-up-form-practice1/]
 
-## My process
+## Process
 
 
 
@@ -49,14 +49,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- JS validation
 
 
-### What I learned
+### What we learned
 
 
 ```html
@@ -85,10 +81,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 - (https://www.w3schools.com/howto/howto_css_signup_form.asp) - This site helped me create a responsive sign up form using CSS.
 
 
-## Author
+## Authors
 
 - Website - [Danial, Ayana](https://www.your-site.com)
 - Frontend Mentor - [@ZZZAyana](https://www.frontendmentor.io/profile/ZZZAyana)
+- Frontend Mentor - [@TurboDanik](https://www.frontendmentor.io/profile/TurboDanik)
 
 
 ## Acknowledgments
